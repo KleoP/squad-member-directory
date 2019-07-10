@@ -13,6 +13,9 @@ Your Specialty - [@github](https://github.com/github)
 Nikema Prophet <br />
 Web Development - [@prophen](https://github.com/prophen)
 
+Kleo Pullin <br />
+Documentation - [@KleoP](https://github.com/KleoP)
+
 ### **Designers**
 
 ### **Developers**
